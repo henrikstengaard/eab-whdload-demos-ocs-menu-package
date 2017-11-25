@@ -530,15 +530,6 @@ lastplayed=0
 hidden=0
 
 index=0
-title=Baygon - Melon Dezign AGA
-genre=Unknown
-path=A-Demos:B/BaygonAGA/BaygonAGA.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
 title=BBS Intro - Taurus Intro
 genre=Unknown
 path=A-Demos:B/BBSIntro/BBSIntro.Slave
@@ -749,15 +740,6 @@ index=0
 title=Boundless Void - Nemol
 genre=Unknown
 path=A-Demos:B/BoundlessVoid/BoundlessVoid.slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
-title=The Breath Of The Muse - Chryseis,Poseidon AGA
-genre=Unknown
-path=A-Demos:B/BreathOfTheMuseAGA/BreathOfTheMuseAGA.Slave
 favorite=0
 timesplayed=0
 lastplayed=0
@@ -2348,15 +2330,6 @@ lastplayed=0
 hidden=0
 
 index=0
-title=Ilex - Mystic AGA
-genre=Unknown
-path=A-Demos:I/IlexAGA/IlexAGA.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
 title=Impulse 2 - Tilt,Old Bulls
 genre=Unknown
 path=A-Demos:I/Impulse2/Impulse2.Slave
@@ -3500,15 +3473,6 @@ lastplayed=0
 hidden=0
 
 index=0
-title=Mina Omistan - Movement AGA
-genre=Unknown
-path=A-Demos:M/MinaOmistanAGA/MinaOmistanAGA.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
 title=Mindriot - Andromeda
 genre=Unknown
 path=A-Demos:M/MindRiot/MindRiot.Slave
@@ -3781,7 +3745,7 @@ hidden=0
 index=0
 title=Musicbox - Exodus
 genre=Unknown
-path=A-Demos:M/MusicBoxExodus/MusicBoxExodus.Slave
+path=A-Demos:MusicBoxExodus/MusicBoxExodus.Slave
 favorite=0
 timesplayed=0
 lastplayed=0
@@ -4688,15 +4652,6 @@ lastplayed=0
 hidden=0
 
 index=0
-title=Picture Book - Axis AGA
-genre=Unknown
-path=A-Demos:P/PictureBookAGA/PictureBookAGA.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
 title=The pink circle - Arcane
 genre=Unknown
 path=A-Demos:P/PinkCircle/PinkCircle.Slave
@@ -4718,15 +4673,6 @@ index=0
 title=Pixel Nation - Defjam
 genre=Unknown
 path=A-Demos:P/PixelNation/PixelNation.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
-title=Planet M. - Melon Dezign AGA
-genre=Unknown
-path=A-Demos:P/PlanetMAGA/PlanetMAGA.Slave
 favorite=0
 timesplayed=0
 lastplayed=0
@@ -5087,15 +5033,6 @@ index=0
 title=Rubbish - Amega Industries
 genre=Unknown
 path=A-Demos:R/Rubbish/Rubbish.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
-title=S - Skarla AGA
-genre=Unknown
-path=A-Demos:S/SAGA/SAGA.Slave
 favorite=0
 timesplayed=0
 lastplayed=0
@@ -6083,24 +6020,6 @@ lastplayed=0
 hidden=0
 
 index=0
-title=Top Karaoke Vol.2 - Saturne AGA
-genre=Unknown
-path=A-Demos:T/TopKaraoke2AGA/TopKaraoke2AGA.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
-title=Top Karaoke Vol.3 - Capitaine Flam- - Saturne AGA
-genre=Unknown
-path=A-Demos:T/TopKaraoke3AGA/TopKaraoke3AGA.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
 title=Total Kaos - LSD
 genre=Unknown
 path=A-Demos:T/TotalKaos/TotalKaos.slave
@@ -6506,15 +6425,6 @@ lastplayed=0
 hidden=0
 
 index=0
-title=Wit Premium - Freezers AGA
-genre=Unknown
-path=A-Demos:W/WitPremiumAGA/WitPremiumAGA.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
 title=World of Commodore - Sanity
 genre=Unknown
 path=A-Demos:W/WorldOfCommodore/WorldOfCommodore.slave
@@ -6527,15 +6437,6 @@ index=0
 title=World of Commodore - Sanity
 genre=Unknown
 path=A-Demos:W/WorldOfCommodoreAltVer/WorldOfCommodoreAltVer.Slave
-favorite=0
-timesplayed=0
-lastplayed=0
-hidden=0
-
-index=0
-title=World Of Manga - Comax AGA
-genre=Unknown
-path=A-Demos:W/WorldOfMangaAGA/WorldOfMangaAGA.Slave
 favorite=0
 timesplayed=0
 lastplayed=0
