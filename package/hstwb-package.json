@@ -1,0 +1,22 @@
+{
+    "name": "EAB WHDLoad Demos OCS Menu",
+    "version": "3.0.0",
+    "assigns":
+    [
+        {
+            "name": "SYSTEMDIR"
+        },
+        {
+            "name": "MENUSDIR",
+            "path": "DH1:Menus"
+        },
+        {
+            "name": "FRONTENDSDIR",
+            "path": "SYSTEMDIR:Demos"
+        },
+        {
+            "name": "DEMOSDIR",
+            "path": "DH1:WHDLoad/Demos"
+        }
+    ]
+}
