@@ -1,0 +1,4 @@
+Name    : Mega Trax Vol. 1
+Groups  : Inner City
+Type    : Musicdisk
+RunFile : MegaTraxVol1.Slave

@@ -1,0 +1,4 @@
+Name    : Music Thingy
+Groups  : Exit
+Type    : Musicdisk
+RunFile : MusicThingy.slave

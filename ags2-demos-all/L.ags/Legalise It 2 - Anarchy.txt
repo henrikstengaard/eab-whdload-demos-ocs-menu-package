@@ -1,0 +1,4 @@
+Name    : Legalise It 2
+Groups  : Anarchy
+Type    : Musicdisk
+RunFile : LegalizeIt2.slave
